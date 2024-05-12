@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "HTML",
+    "src": "/img/icons/html5.svg"
+  },
+  {
+    "skill": "CSS",
+    "src": "/img/icons/css.svg"
+  },
+  {
+    "skill": "Javascript",
+    "src": "/img/icons/javascript.svg"
+  },
+  {
+    "skill": "React",
+    "src": "/img/icons/react.svg"
+  },
+  {
+    "skill": "Astro",
+    "src": "/img/icons/astro.svg"
+  },
+  {
+    "skill": "TailwindCSS",
+    "src": "/img/icons/tailwindcss.svg"
+  },
+  {
+    "skill": "NodeJS",
+    "src": "/img/icons/nodejs.svg"
+  },
+  {
+    "skill": "Express",
+    "src": "/img/icons/expressjs.svg"
+  },
+  {
+    "skill": "PostgreSQL",
+    "src": "/img/icons/postgresql.svg"
+  },
+  {
+    "skill": "Git",
+    "src": "/img/icons/git.svg"
+  }
+]
