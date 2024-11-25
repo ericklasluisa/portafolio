@@ -1,5 +1,25 @@
 [
   {
+    "skill": "React",
+    "src": "/img/icons/react.svg"
+  },
+  {
+    "skill": "Next.js",
+    "src": "/img/icons/nextjs.svg"
+  },
+  {
+    "skill": "TailwindCSS",
+    "src": "/img/icons/tailwindcss.svg"
+  },
+  {
+    "skill": "Typescript",
+    "src": "/img/icons/typescript.svg"
+  },
+  {
+    "skill": "NestJS",
+    "src": "/img/icons/nestjs.svg"
+  },
+  {
     "skill": "HTML",
     "src": "/img/icons/html5.svg"
   },
@@ -10,26 +30,6 @@
   {
     "skill": "Javascript",
     "src": "/img/icons/javascript.svg"
-  },
-  {
-    "skill": "React",
-    "src": "/img/icons/react.svg"
-  },
-  {
-    "skill": "Astro",
-    "src": "/img/icons/astro.svg"
-  },
-  {
-    "skill": "TailwindCSS",
-    "src": "/img/icons/tailwindcss.svg"
-  },
-  {
-    "skill": "NodeJS",
-    "src": "/img/icons/nodejs.svg"
-  },
-  {
-    "skill": "Express",
-    "src": "/img/icons/expressjs.svg"
   },
   {
     "skill": "PostgreSQL",
